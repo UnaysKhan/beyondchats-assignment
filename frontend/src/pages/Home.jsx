@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-600 px-6 py-12">
       <h1 className="text-5xl font-extrabold text-white text-center mb-14">
-        BeyondChats Blogs
+        AI Blog Automation Engine
       </h1>
 
       {/* GRID CONTAINER */}
